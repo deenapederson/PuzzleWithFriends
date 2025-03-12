@@ -1,0 +1,21 @@
+export const colors = {
+  background: '#F2F2F2',
+  card: '#ffffff',
+  primary: '#582386',
+  secondary: '#A066CB',
+  text: '#262626',
+  textLight: '#4A5568',
+  border: '#e2e8f0',
+  success: '#68d391',
+  warning: '#f6ad55',
+  danger: '#fc8181',
+  info: '#63b3ed',
+  icons: '#12C2E8',
+  icontext: '#C859FF',
+  pro: '#d29856',
+  accentDark: '#006acc',
+  accentLight: '#2cbcce',
+  lavendar: '#f7f2fb',
+  modalOverlay: 'rgba(0, 0, 0, 0.5)',
+  hover: '#f7fafc'
+}
